@@ -1,7 +1,7 @@
-package com.example.simpleroot.controller;
+package com.sajeewa.controller;
 
-import com.example.simpleroot.dto.UserDTO;
-import com.example.simpleroot.service.UserService;
+import com.sajeewa.dto.UserDTO;
+import com.sajeewa.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

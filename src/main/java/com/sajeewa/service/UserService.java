@@ -1,8 +1,8 @@
-package com.example.simpleroot.service;
+package com.sajeewa.service;
 
-import com.example.simpleroot.dto.UserDTO;
-import com.example.simpleroot.entity.User;
-import com.example.simpleroot.repo.UserRepo;
+import com.sajeewa.dto.UserDTO;
+import com.sajeewa.entity.User;
+import com.sajeewa.repo.UserRepo;
 import org.modelmapper.ModelMapper;
 import org.modelmapper.TypeToken;
 import org.springframework.beans.factory.annotation.Autowired;

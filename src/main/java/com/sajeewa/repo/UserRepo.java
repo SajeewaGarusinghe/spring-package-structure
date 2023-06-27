@@ -1,8 +1,7 @@
-package com.example.simpleroot.repo;
+package com.sajeewa.repo;
 
-import com.example.simpleroot.entity.User;
+import com.sajeewa.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 
 public interface UserRepo extends JpaRepository<User,Integer> {

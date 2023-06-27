@@ -1,4 +1,4 @@
-package com.example.simpleroot.entity;
+package com.sajeewa.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.example.simpleroot;
+package com.sajeewa;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.boot.SpringApplication;

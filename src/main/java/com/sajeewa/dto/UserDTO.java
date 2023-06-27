@@ -1,4 +1,4 @@
-package com.example.simpleroot.dto;
+package com.sajeewa.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
